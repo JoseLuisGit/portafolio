@@ -1,28 +1,39 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+     <div class="scrolling-indicator"></div>
+     <sidebar-component></sidebar-component>
+         <main class="page-main modern">
+        <home-component></home-component>
+   <about-component></about-component>
+   <skill-component></skill-component>
+   <portfolio-component></portfolio-component>
+
+       <!-- Single Project Full -->
+     
+         </main>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
+import SidebarComponent from './components/SidebarComponent.vue';
+import HomeComponent from './components/HomeComponent.vue';
+import AboutComponent from './components/AboutComponent.vue';
+import SkillComponent from './components/SkillComponent.vue';
+import PortfolioComponent from './components/PortfolioComponent.vue';
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    SidebarComponent,
+    HomeComponent,
+    AboutComponent,
+    SkillComponent,
+   PortfolioComponent,
   }
 }
+
+
 </script>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
