@@ -46,7 +46,7 @@
                     </div>
                   </div>
                   <div class="about-btns">
-                    <a class="btn btn-rounded" href="#">Descargar CV</a>
+                    <a class="btn btn-rounded" href="https://drive.google.com/file/d/1BNOebRsNfuWuePvBLT_iLr8JqLuRWr12/view?usp=sharing">Descargar CV</a>
                     <a class="btn btn-rounded" href="#">Portafolio</a>
                   </div>
                 </address>

@@ -44,7 +44,7 @@
           </ul>
           <!-- Sidebar Footer -->
           <div class="sidebar-footer">
-            <a class="btn btn-rounded sidebar-btn" href="#">Descargar CV</a>
+            <a class="btn btn-rounded sidebar-btn" href="https://drive.google.com/file/d/1BNOebRsNfuWuePvBLT_iLr8JqLuRWr12/view?usp=sharing">Descargar CV</a>
           </div>
         </nav>
       </div>
