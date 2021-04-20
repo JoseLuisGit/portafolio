@@ -20,7 +20,7 @@
           <span class="cd-words-wrapper">
             <!-- Site Logo -->
             <b class="is-visible"
-              ><span class="gold-title">Jose Luis</span></b
+              ><span class="gold-title">Jose Luis Quispe</span></b
             >
           </span>
         </h2>
@@ -32,19 +32,19 @@
               <a class="nav-link active" href="#home">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#about">About</a>
+              <a class="nav-link" href="#about">Acerca</a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="#resume">Resume</a>
+              <a class="nav-link" href="#resume">Resumen</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#portfolio">Portfolio</a>
+              <a class="nav-link" href="#portfolio">Portafolio</a>
             </li>
           </ul>
           <!-- Sidebar Footer -->
           <div class="sidebar-footer">
-            <a class="btn btn-rounded sidebar-btn" href="#">Download CV</a>
+            <a class="btn btn-rounded sidebar-btn" href="#">Descargar CV</a>
           </div>
         </nav>
       </div>

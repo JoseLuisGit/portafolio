@@ -13,29 +13,36 @@
                 <p>
                  {{dataSelected.descripcion}}
                 </p>
-                <!-- Project Sliders -->
-                <div class="container">
-                  <img v-for="image in dataSelected.image" :key="image"
-                    class="img-fluid"
-                    :src="image"
-                    alt=""
-                  />
-                  
-                </div>
+                
               </div>
             </div>
             <div class="col-lg-5">
               <!-- Project Info -->
               <div class="project-info">
-                <h4 class="project-sub-heading">Project Info</h4>
+                <h4 class="project-sub-heading">Mas Información</h4>
                 <ul class="list-inline project-info-list">
                  
                   <li v-if="dataSelected.demo != ''">
-                    <span>Enlace:</span><a :href="dataSelected.demo">{{dataSelected.demo}}</a>
+                    <span>Enlace:</span><a v-for="dem in dataSelected.demo" :key="dem" :href="dem">{{dem}}</a>
                   </li>
                   <li><span>Tecnologias:</span>{{dataSelected.tecnologia}}</li>
                 </ul>
               </div>
+            </div>
+
+            <div class="col-lg-12">
+               <div class="container ">
+               
+                     <img 
+                     v-for="image in dataSelected.imagen" :key="image" 
+                    class="img-project img-fluid"
+                  :src="image"
+                    alt=""
+                  /> 
+               
+                
+                  
+                </div>
             </div>
           </div>
         </div>
@@ -44,6 +51,9 @@
 
 <script>
 export default {
+  created(){
+    console.log(this.dataSelected);
+  },
 props:{
     dataSelected: Object
 }

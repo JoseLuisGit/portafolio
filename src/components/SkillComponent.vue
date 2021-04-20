@@ -3,43 +3,41 @@
       <section class="section-resume" id="resume">
         <div class="container">
           <div class="section-heading">
-            <p class="heading-bg">Resume</p>
-            <h2 class="heading-main">Habilidades</h2>
+            <p class="heading-bg">Resumen</p>
+            <h2 class="heading-main">Resumen</h2>
           </div>
           <div class="row">
             <div class="col-md-6">
               <!-- Resume Block 01 -->
-              <h3 class="resume-block-title">Education</h3>
+              <h3 class="resume-block-title">Educación</h3>
               <div class="resume-block">
                 <!-- Resume Item 01 -->
                 <div class="resume-item">
-                  <span class="resume-period">2010 - 2014</span>
-                  <h4 class="resume-title">Computer Science</h4>
-                  <p>Oxford University</p>
-                  <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Laudantium, odit!
-                  </p>
+                  <span class="resume-period">2009 - 2013</span>
+                  <h4 class="resume-title">Bachiller</h4>
+                  <p>U.E. Jorge Urenda Trigo</p>
+                  
                 </div>
                 <!-- Resume Item 02 -->
                 <div class="resume-item">
-                  <span class="resume-period">2014 - 2015</span>
-                  <h4 class="resume-title">Graphics Design</h4>
-                  <p>California University</p>
-                  <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Laudantium, odit!
-                  </p>
+                  <span class="resume-period"> 2015</span>
+                  <h4 class="resume-title">Mantenimiento y Reparacion de Computadoras</h4>
+                  <p>Instituto Técnico Domingo Savio</p>
+                  
                 </div>
                 <!-- Resume Item 03 -->
                 <div class="resume-item">
-                  <span class="resume-period">2015 - 2016</span>
-                  <h4 class="resume-title">UI / UX Design</h4>
-                  <p>Harvard University</p>
-                  <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Laudantium, odit!
-                  </p>
+                  <span class="resume-period">2015</span>
+                  <h4 class="resume-title">Diseño Grafico</h4>
+                  <p>Instituto Técnico Domingo Savio </p>
+                 
+                </div>
+
+                <div class="resume-item">
+                  <span class="resume-period">2015 - 2020</span>
+                  <h4 class="resume-title">Ingenieria Informatica</h4>
+                  <p>Universidad Autonoma Gabriel Rene Moreno </p>
+                 
                 </div>
               </div>
             </div>
@@ -49,33 +47,24 @@
               <div class="resume-block">
                 <!-- Resume Item 04 -->
                 <div class="resume-item">
-                  <span class="resume-period">2016 - 2017</span>
-                  <h4 class="resume-title">UI / UX Designer</h4>
-                  <p>Google</p>
-                  <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Laudantium, odit!
-                  </p>
+                  <span class="resume-period">2018</span>
+                  <h4 class="resume-title">Beca a la Excelencia 1-2018</h4>
+                  <p>UAGRM</p>
+                  
                 </div>
                 <!-- Resume Item 05 -->
                 <div class="resume-item">
-                  <span class="resume-period">2017 - 2018</span>
-                  <h4 class="resume-title">Front - End Developer</h4>
-                  <p>Microsoft</p>
-                  <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Laudantium, odit!
-                  </p>
+                  <span class="resume-period">2019</span>
+                  <h4 class="resume-title">Campeón Ajedrez Aniversario ICG</h4>
+                  <p>UAGRM - Control de Gestión</p>
+    
                 </div>
                 <!-- Resume Item 06 -->
                 <div class="resume-item">
-                  <span class="resume-period">2018 - Now</span>
-                  <h4 class="resume-title">Software Engineer</h4>
-                  <p>Apple</p>
-                  <p>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Laudantium, odit!
-                  </p>
+                  <span class="resume-period">2020</span>
+                  <h4 class="resume-title">Aporte en la creación del Sistema Web para el Fuerte de Samaipata Patrimonio Cultural de la Humanidad</h4>
+                  <p>Gobierno Municipal de Samaipata</p>
+                  
                 </div>
               </div>
             </div>

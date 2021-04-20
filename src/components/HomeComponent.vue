@@ -8,22 +8,18 @@
             <!-- Social Icons List -->
             <ul class="list-inline home-socials social-icons order-lg-0">
               <li>
-                <a href="#">
+                <a href="https://www.facebook.com/jose.luis.josekcm/">
                   <i class="fab fa-facebook"></i>
                 </a>
               </li>
+             
               <li>
-                <a href="#">
-                  <i class="fab fa-twitter"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/jose-luis-quispe-mamani-9218891bb/">
                   <i class="fab fa-linkedin"></i>
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://github.com/JoseLuisGit">
                   <i class="fab fa-github"></i>
                 </a>
               </li>
@@ -32,8 +28,8 @@
           <!-- Home Intro -->
           <div class="home-intro">
             <!-- Your Identity -->
-            <h1 class="home-title">Jose Luis</h1>
-            
+            <h2 class="home-title">portafolio</h2>
+            <h3 class="home-status">José Luis Quispe M.</h3>
           </div>
         </div>
       </section>
